@@ -1,16 +1,9 @@
-# jp-ta-bedrock
+# Japanese Teaching Assistant 
 
-Japanese Teaching Assitant (JP TA) is a collection of prompts via single interface to
-assist in learning japanese.
+- Streamlit
+- Amazon Bedrock
 
-## Frontend Generation
+See `sentence-constructor/README.md'
 
-The frontend app is generated using the `prompts/app/frontend.md` with :
-- Amazon Nova Pro 
-- 5120 Content length
-
-Used the Amazon Bedrock Agent Playgound directly.
-
-## Backend Generation
-
-The backend app is generated using the `prompts/app/frontend.md`
+- https://community.aws/content/2mj19NGVd9dC9QGGuPke7KH9V1k/create-your-own-custom-ai-agent-with-amazon-bedrock-and-converse-api?lang=en
+- https://www.youtube.com/watch?v=wNyih2j0IbE
